@@ -2,7 +2,6 @@ package com.towncrier;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
-import net.runelite.client.plugins.towncrier.TownCrierPlugin;
 
 public class TownCrierPluginTest
 {
