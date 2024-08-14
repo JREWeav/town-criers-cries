@@ -25,12 +25,6 @@ public class TownCrierPlugin extends Plugin
 	@Inject
 	private TownCrierConfig config;
 
-	@Override
-	protected void startUp() throws Exception
-	{
-		log.info("Town Crier's Cries started!");
-	}
-
 	@Subscribe
 	public void onOverheadTextChanged(OverheadTextChanged event)
 	{
