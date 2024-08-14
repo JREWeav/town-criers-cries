@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.towncrier;
+package com.towncrier;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;
